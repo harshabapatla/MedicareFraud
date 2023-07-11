@@ -63,15 +63,11 @@ visualizations and perform better analysis. At the end, we see that a random for
 gives an accuracy rate of 72%.
 # TECHNOLOGIES EMPLOYED:
 ## Python: 
-      We have used pandas to read and check the column number using a shape function, a
-data frame that drops the column that has the most frequently repeating or common values.
+      We have used pandas to read and check the column number using a shape function, a data frame that drops the column that has the most frequently repeating or common values.
 ## Exploratory Data Analysis: 
-      EDA is used in our 1st question where we check the beneficiary
-data and deduce that most of the beneficiaries are from the YEAR - 1919 to 1943.
+      EDA is used in our 1st question where we check the beneficiary data and deduce that most of the beneficiaries are from the years - 1919 to 1943.
 ## Feature engineering:
-      An example of using feature engineering is where we see that there is no
-difference in the distribution of Claim Duration for Potentially Fraud and Non-Fraud Providers.
-Here, we reach the conclusion that Claim Duration alone might not be useful in segregating the
-Fraud cases.
+      An example of using feature engineering is when we see that there is no difference in the distribution of Claim Duration for Potentially Fraud and Non-Fraud Providers.
+Here, we reach the conclusion that Claim Duration alone might not be useful in segregating the Fraud cases.
 
 
